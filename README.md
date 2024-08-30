@@ -10,11 +10,9 @@
 
 ## Features
 
-- Fetch app details using the App Store API.
+- Fetch app details using the itunes lookup
 - Display app information such as name, bundle ID, version, release date, and more.
 - Copy important fields like the App ID and bundle ID with a single click.
-- Clickable URLs in descriptions that open directly in the default browser.
-- A simple, minimalistic macOS app icon that resembles the App Store.
 - History of searched apps with options to delete or export.
 
 ## Installation
